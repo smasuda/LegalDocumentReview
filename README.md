@@ -1,1 +1,3 @@
 # LegalDocumentReview
+
+各種契約書をレビューするにあたってのチェックポイント
